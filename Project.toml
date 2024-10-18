@@ -1,0 +1,12 @@
+name = "GabsBenchmarks"
+uuid = "392c0252-5eab-4c9c-bee2-8c5d8a20ba63"
+authors = ["apkille <killeandrew@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6.7"
+Gabs = "1.0.1"
+
+[deps]
+Gabs = "0eb812ee-a11f-4f5e-b8d4-bb8a44f06f50"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
